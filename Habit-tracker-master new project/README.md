@@ -153,10 +153,14 @@ Here you have to make some configuraiton to run this project on your system
     ```
 2. Now all configurations has been completed, run below command in terminal to run the application
     ```
-    npm start
+    npm start or node app.js
     ```
 
 
+image of localhost8000
+Habit-tracker-master\Habit-tracker-master new project\assets\images\WhatsApp Image 2023-05-02 at 19.42.29.jpeg
+Habit-tracker-master\Habit-tracker-master new project\assets\images\WhatsApp Image 2023-05-02 at 19.42.54.jpeg
+Habit-tracker-master\Habit-tracker-master new project\assets\images\WhatsApp Image 2023-05-02 at 19.43.27.jpeg
 <!-- CONTACT -->
 ## Contact
 In Case of any issue related to project setup or anything please contact me on narendrasingh995650@gmail.com
